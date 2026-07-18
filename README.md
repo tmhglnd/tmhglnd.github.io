@@ -1,29 +1,22 @@
-# Mercury
+# Find me online
 
-A minimal and human-readable language for the live coding of algorithmic electronic audiovisual performances. Programmed in the Cycling'74 Max8 node-based creative coding environment, as an abstracted layer on the Max/MSP audio engine and with the use of Node4Max for parsing, lexing and generative algorithms and Jitter/OpenGL for the visuals and the responsive texteditor.
-
-[https://github.com/tmhglnd/mercury](https://github.com/tmhglnd/mercury)
-
-# Total Serialism
-
-total-serialism is a set of methods used for procedurally generating and transforming number sequences. This library is mainly designed with algorithmic composition of music in mind, but can surely be useful for other purposes that involve generation and manipulation of arrays and numbers.
-
-[https://www.npmjs.com/package/total-serialism](https://www.npmjs.com/package/total-serialism)
+- [My website](https://timohoogland.com)
+- [Mastodon](https://social.toplap.org/@tmhglnd)
+- [Instagram](https://instagram.com/tmhglnd)
+- [Bandcamp](https://timohoogland.bandcamp.com)
+- [Youtube](https://youtube.com/tmhglnd)
+- [Vimeo](https://vimeo.com/timohoogland)
+- [Github](https://github.com/tmhglnd)
+- [Codeberg](https://codeberg.com/tmhglnd)
 
 # Patreon
 
-[Support me on Patreon](http://patreon.com/timohoogland)
+[Support me on Patreon](https://patreon.com/timohoogland)
 
 # Gumroad
 
-[Get Max Patches on Gumroad](http://gumroad.com/tmhglnd)
+[Support me via Gumroad](https://gumroad.com/tmhglnd)
 
-# Social
+# Kofi
 
-- [Main website](http://timohoogland.com)
-- [Bandcamp Music](http://timohoogland.bandcamp.com)
-- [Instagram](http://instagram.com/tmhglnd)
-- [Twitter](http://twitter.com/tmhglnd)
-- [Vimeo](http://vimeo.com/timohoogland)
-- [Youtube](http://youtube.com/tmhglnd)
-- [Github](http://github.com/tmhglnd)
+[Support me on ko-fi](https://ko-fi.com/tmhglnd)
